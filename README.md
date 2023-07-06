@@ -1,5 +1,5 @@
 # OpenAI-Summarizer
-## Sumz [https://openaisumz.netlify.app/]
+## [Sumz] (https://openaisumz.netlify.app/)
 An Article Summarizer Application using OpenAI's GPT model
 ## Features
 Here is what makes it unique :)
